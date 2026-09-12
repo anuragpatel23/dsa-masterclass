@@ -6,7 +6,9 @@ Trees are the heart of the interview loop: they test recursion, and recursion te
 whether you can decompose problems. They're also everywhere in real systems —
 file systems, DOM, database indexes (B-trees), JSON, org charts, decision trees.
 
+
 ---
+
 
 ## 1. Vocabulary & Real-Life Model
 
